@@ -1,0 +1,12 @@
+﻿{
+  "Id": "LU-btm9bmUamq6e4Nwb4xQ",
+  "Reference": "d6nDVnJ8LUiJj8UMpkyi5Q/LU-btm9bmUamq6e4Nwb4xQ",
+  "ParentRef": "d6nDVnJ8LUiJj8UMpkyi5Q/3_n1qYXztk2xcHOw71TrlQ",
+  "Name": "Calculator",
+  "Type": "Screen",
+  "Created": "2023-01-23T00:13:43.6696996Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-23T00:13:43.6696996Z"
+}
